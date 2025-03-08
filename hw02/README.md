@@ -20,7 +20,7 @@ The project uses the following images as input:
 ## Output Image
 After processing the input images, the final stitched panorama is:
 
-![Final Stitched Image](images/output.png)
+![Final Stitched Image](images/stitched.png)
 
 
 ## How It Works

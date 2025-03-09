@@ -1,7 +1,5 @@
 #  ImageBoWClassifier - Image Classification using Bag-of-Words & Machine Learning
 
-![Random Images from Dataset](image.png)
-
 ##  Project Overview
 **ImageBoWClassifier** is an image classification project that uses **SIFT (Scale-Invariant Feature Transform)** descriptors, **Bag-of-Words (BoW)**, and **machine learning models (KNN & SVM)** to classify images. Built with **OpenCV, Scikit-Learn, and Python**, this project demonstrates how to apply **BoW for visual recognition**.
 

@@ -12,4 +12,6 @@
 - Classifies images using **K-Nearest Neighbors (KNN) & Support Vector Machines (SVM)**  
 - Evaluates models and provides **accuracy & classification reports**  
 
-
+## Source
+The original dataset used in this project can be found at:  
+[Dataset Source](https://vc.ee.duth.gr:6960/index.php/s/LyS24AwLJ1eAxFR)

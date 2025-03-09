@@ -12,12 +12,4 @@
 - Classifies images using **K-Nearest Neighbors (KNN) & Support Vector Machines (SVM)**  
 - Evaluates models and provides **accuracy & classification reports**  
 
----
 
-##  Installation
-
-### **1️⃣ Clone the Repository**
-If you have Git installed, you can clone the repository:
-```bash
-git clone https://github.com/yourusername/ImageBoWClassifier.git
-cd ImageBoWClassifier

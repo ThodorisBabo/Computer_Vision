@@ -14,6 +14,7 @@
 
 ## Input Images
 
+![Final Stitched Image](images/stitched.png)
 
 ## Source
 The original dataset used in this project can be found at:  
